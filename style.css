@@ -1,0 +1,75 @@
+.heading{
+    background-image: url("bns.jpg");
+    background-size: cover;
+    text-align: center;
+    color:white;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    
+    text-shadow: 0px 0px 10px black;;
+    padding: 10px 70px 100px 70px;
+    font-family: 'Tilt Neon', cursive;
+    font-weight: bold;
+}
+.txt{
+    background-color:#D25A2E ;
+    border-radius: 5px;
+    padding: 2px;
+    margin-top: 50px;
+}
+.middle{
+    
+    background-color: lightblue;
+    text-align: center;
+    font-family: 'Tilt Neon', cursive;
+    padding: 10px 10px;
+    
+    
+}
+.img{
+    width: 150px;
+    height: 150px;
+    border-radius: 100px;
+    
+}
+.images{
+    display: flex;
+    align-items:  center;
+    flex-direction: row;
+    justify-content: space-around;
+    font-family: 'Tilt Neon', cursive;
+}
+.foot{
+    background-color: white;
+}
+
+.card{
+    width: 400px;
+    display: flex;
+    text-align: center;
+    background-color: skyblue;
+    justify-content: space-between;
+    align-content: center;
+    border-bottom: 15px solid orange;
+    border-radius: 10px;
+    padding: 10px;
+    margin-top: 25px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-bottom: 25px;
+    font-family: 'Tilt Neon', cursive;
+    
+}
+
+#me{
+    width: 150px;
+    height:150px;
+    align-content: center;
+    border-radius: 10px;
+}
+
+.guide{
+    margin: 0px;
+    border: none;
+}
